@@ -1,0 +1,3 @@
+C:\Users\Selvanayaki\GitCollab\JewelsOnContainer\JewelsOnContainer\ProductCatalogAPI\obj\Debug\netcoreapp2.1\ProductCatalogAPI.csproj.CoreCompileInputs.cache
+C:\Users\Selvanayaki\GitCollab\JewelsOnContainer\JewelsOnContainer\ProductCatalogAPI\obj\Debug\netcoreapp2.1\ProductCatalogAPI.AssemblyInfoInputs.cache
+C:\Users\Selvanayaki\GitCollab\JewelsOnContainer\JewelsOnContainer\ProductCatalogAPI\obj\Debug\netcoreapp2.1\ProductCatalogAPI.AssemblyInfo.cs
